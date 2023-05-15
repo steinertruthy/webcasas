@@ -13,7 +13,7 @@ https://github.com/steinerstt/webcasas/assets/106714068/a6d2dfdd-9aa0-46bd-84f6-
 
 **
 ## 🔰 Ao Vivo
-Para acessar o deploy <a href="https://ziti.vercel.app/" target="_blank" > Clique Aqui! </a>
+Para acessar o deploy <a href="https://webcasas-theta.vercel.app/" target="_blank" > Clique Aqui! </a>
 
 ## 🌐 Api
 <a href="https://github.com/steinerstt/api-webcasas" target="_blank"> API </a> criada por mim 
@@ -113,7 +113,7 @@ $ yarn dev
 ![página-meus-anúncios-modal-ativar-aberto](https://github.com/steinerstt/webcasas/assets/106714068/2abb021d-21d4-4ce3-acc5-e78b729c46c8)
 ![página-anunciar-imóvel](https://github.com/steinerstt/webcasas/assets/106714068/6e946dec-2715-44fa-8458-66f39eeea2f2)
 
-<br>!
+<br>
 
 ## 📄 Licença
 Este projeto está sob a licença do MIT - veja o arquivo [LICENSE](https://github.com/steinerstt/webcasas/blob/main/LICENSE) para detalhes.
