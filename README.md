@@ -4,9 +4,7 @@
 ![Website](https://img.shields.io/website?color=gree&label=Status&style=for-the-badge&up_message=finalizado&url=https://github.com/steinerstt/webcasas)
 <br><br>
 
-
-**
-https://user-images.githubusercontent.com/106714068/228991465-1ef22d0c-a6bc-4a09-b721-9ac1680db73c.mp4
+https://github.com/steinerstt/webcasas/assets/106714068/a6d2dfdd-9aa0-46bd-84f6-b0b2e4bb9363
 
 <br>
 
