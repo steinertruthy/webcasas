@@ -100,26 +100,22 @@ $ yarn dev
 ![página-inicial](https://github.com/steinerstt/webcasas/assets/106714068/6435040d-a772-480a-bf64-5d5f8d2decac)
 ![página-inicial-logado](https://github.com/steinerstt/webcasas/assets/106714068/c77c4c24-3405-42ad-9807-a2832c89aad9)
 ![página-imóveis](https://github.com/steinerstt/webcasas/assets/106714068/4431e702-8e40-4a7d-8a35-4fea9be0327d)
-
-![página-imóveis-filtros-aplicados](https://github.com/steinerstt/webcasas/assets/106714068/5258a470-2ccc-4b70-bfb8-34ba954a1813)
-![página-imóveis-modal-filtros](https://github.com/steinerstt/webcasas/assets/106714068/21a8de08-f2e0-461c-9b65-f735fdeb9cb8)
-![página-imóveis-estato-selecionado](https://github.com/steinerstt/webcasas/assets/106714068/a157a224-9461-44c7-8242-a33981556ba1)
-![página-imóveis-menu-usuário-aberto](https://github.com/steinerstt/webcasas/assets/106714068/35ca3707-f88a-465b-a5f7-620334b1e296)
-![página-meu-cadastro](https://github.com/steinerstt/webcasas/assets/106714068/ac14bee7-9d0b-4040-b7cd-e6ac5960e9e1)
-![página-meu-cadastro-gerenciamento-conta-aberto](https://github.com/steinerstt/webcasas/assets/106714068/63c260bb-a575-40f5-8abc-ae017a08a45b)
-![página-meu-cadastro-gerenciamento-conta-aberto-modal-desativar-conta](https://github.com/steinerstt/webcasas/assets/106714068/43940708-ac1c-46db-85b2-b926a744467c)
-![página-meu-cadastro-gerenciamento-conta-aberto-modal-excluir-conta](https://github.com/steinerstt/webcasas/assets/106714068/479fe9f3-6cc5-4584-b7a7-b78e070fb115)
-![página-ativar-conta](https://github.com/steinerstt/webcasas/assets/106714068/be60a7b5-7007-4ea7-8b4a-9c4f3242ce00)
-![página-meus-anúncios](https://github.com/steinerstt/webcasas/assets/106714068/97d21a70-a794-4e8a-8641-277b8a52b787)
-![página-meus-anúncios-modal-excluir-aberto](https://github.com/steinerstt/webcasas/assets/106714068/2d8ba92e-48f8-4d5d-ab68-bfa406abf7d3)
-![página-meus-anúncios-modal-desativar-aberto](https://github.com/steinerstt/webcasas/assets/106714068/b0acfb62-ddf2-4f71-aad9-a774f3e42d1e)
-![página-meus-anúncios-modal-ativar-aberto](https://github.com/steinerstt/webcasas/assets/106714068/eb1447c6-175c-4b66-8b92-e1e945146ac8)
-![página-anunciar-imóvel](https://github.com/steinerstt/webcasas/assets/106714068/1b98ac0b-193f-4c3b-b283-0392b6eacd6d)
-
+![página-imóveis-estato-selecionado](https://github.com/steinerstt/webcasas/assets/106714068/c0256f6d-b4cc-4a2d-85e8-cc21bf7cb406)
+![página-imóveis-modal-filtros](https://github.com/steinerstt/webcasas/assets/106714068/5ed5f289-81c9-417f-b16b-feb80aa56483)
+![página-imóveis-filtros-aplicados](https://github.com/steinerstt/webcasas/assets/106714068/913d5a52-3211-4dc6-9577-4e6996aa6ce7)
+![página-imóveis-menu-usuário-aberto](https://github.com/steinerstt/webcasas/assets/106714068/d17c4223-ed1d-4951-adf6-14b90be6938e)
+![página-meu-cadastro](https://github.com/steinerstt/webcasas/assets/106714068/d9348409-191e-43fe-bf25-33512ce3b59d)
+![página-meu-cadastro-gerenciamento-conta-aberto](https://github.com/steinerstt/webcasas/assets/106714068/c7e256cb-34cb-4d3b-87f0-4b3a52610d94)
+![página-meu-cadastro-gerenciamento-conta-aberto-modal-desativar-conta](https://github.com/steinerstt/webcasas/assets/106714068/34e01984-a8e4-44aa-a0e4-d9ebd9d3c2ad)
+![página-meu-cadastro-gerenciamento-conta-aberto-modal-excluir-conta](https://github.com/steinerstt/webcasas/assets/106714068/5ae5556d-dfe1-4ff9-804b-505bff5c422c)
+![página-ativar-conta](https://github.com/steinerstt/webcasas/assets/106714068/abd99960-1642-478d-b664-68c3ed15d8f3)
+![página-meus-anúncios](https://github.com/steinerstt/webcasas/assets/106714068/97577b95-46f3-4b81-97e0-0620db3dd9d2)
+![página-meus-anúncios-modal-desativar-aberto](https://github.com/steinerstt/webcasas/assets/106714068/87efdc55-658b-43df-afdf-779ca903d301)
+![página-meus-anúncios-modal-excluir-aberto](https://github.com/steinerstt/webcasas/assets/106714068/49e40b08-d7f7-468b-86aa-8334ee4cf27a)
+![página-meus-anúncios-modal-ativar-aberto](https://github.com/steinerstt/webcasas/assets/106714068/2abb021d-21d4-4ce3-acc5-e78b729c46c8)
+![página-anunciar-imóvel](https://github.com/steinerstt/webcasas/assets/106714068/6e946dec-2715-44fa-8458-66f39eeea2f2)
 
 <br>!
-
-
 
 ## 📄 Licença
 Este projeto está sob a licença do MIT - veja o arquivo [LICENSE](https://github.com/steinerstt/webcasas/blob/main/LICENSE) para detalhes.
