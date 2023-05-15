@@ -93,11 +93,14 @@ $ yarn dev
 <br>
 
 ## 📸 Screenshots
-![página-login](https://github.com/steinerstt/webcasas/assets/106714068/10be2166-65c2-49e4-a9cf-1c653c9c3a5d)
-![página-cadastro](https://github.com/steinerstt/webcasas/assets/106714068/8a8e775c-2a46-4ed0-bb47-5770cbd63263)
-![página-inicial](https://github.com/steinerstt/webcasas/assets/106714068/76bf0f01-6bc4-4b74-b03d-144e3ab5cecc)
-![página-inicial-logado](https://github.com/steinerstt/webcasas/assets/106714068/9eab50a3-9b57-4939-8281-f66b9b49d462)
-![página-imóveis](https://github.com/steinerstt/webcasas/assets/106714068/f6e344fa-43e6-432f-a0bd-a0751a8e5a18)
+
+
+![página-login](https://github.com/steinerstt/webcasas/assets/106714068/858d2112-0332-430a-8151-46ad24538629)
+![página-cadastro](https://github.com/steinerstt/webcasas/assets/106714068/485978af-8c78-4f61-95a0-8cfedd6e458c)
+![página-inicial](https://github.com/steinerstt/webcasas/assets/106714068/6435040d-a772-480a-bf64-5d5f8d2decac)
+![página-inicial-logado](https://github.com/steinerstt/webcasas/assets/106714068/c77c4c24-3405-42ad-9807-a2832c89aad9)
+![página-imóveis](https://github.com/steinerstt/webcasas/assets/106714068/4431e702-8e40-4a7d-8a35-4fea9be0327d)
+
 ![página-imóveis-filtros-aplicados](https://github.com/steinerstt/webcasas/assets/106714068/5258a470-2ccc-4b70-bfb8-34ba954a1813)
 ![página-imóveis-modal-filtros](https://github.com/steinerstt/webcasas/assets/106714068/21a8de08-f2e0-461c-9b65-f735fdeb9cb8)
 ![página-imóveis-estato-selecionado](https://github.com/steinerstt/webcasas/assets/106714068/a157a224-9461-44c7-8242-a33981556ba1)
