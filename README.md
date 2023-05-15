@@ -11,7 +11,6 @@ https://github.com/steinerstt/webcasas/assets/106714068/a6d2dfdd-9aa0-46bd-84f6-
 > A WebCasas é uma plataforma onde pessoas podem encontrar e/ou anúnciar imóveis para vender ou alugar.
 
 
-**
 ## 🔰 Ao Vivo
 Para acessar o deploy <a href="https://webcasas-theta.vercel.app/" target="_blank" > Clique Aqui! </a>
 
