@@ -14,8 +14,10 @@ https://github.com/steinerstt/webcasas/assets/106714068/a6d2dfdd-9aa0-46bd-84f6-
 ## 🔰 Ao Vivo
 Para acessar o deploy <a href="https://webcasas-theta.vercel.app/" target="_blank" > Clique Aqui! </a>
 
-## 🌐 Api
-<a href="https://github.com/steinerstt/api-webcasas" target="_blank"> API </a> criada por mim 
+
+## 🌐 Apis
+- <a href="https://github.com/steinerstt/api-webcasas" target="_blank"> api-webcasas API </a> criada por mim 
+- <a href="https://servicodados.ibge.gov.br/api/docs" target="_blank"> IBGE - API </a>  
 
 ## 📌 Funcionalidades
 - [x] Usuário
@@ -85,7 +87,8 @@ $ yarn install
 # Rode o projeto 
 $ yarn dev
 ```
-> *O projeto será executado rodando a API que está em produção, caso queira rodar o back-end na sua máquina, terá que seguir as instruções que estão no repositóio da <a href="https://github.com/steinerstt/api-webcasas" target="_blank"> API. </a> E também terá que alterar a baseUrl que está em: services > api.ts para a url local do back-end.
+
+> *O projeto está configurado para rodar com uma API local, será necessário seguir as instruções que estão no repositório da <a href="https://github.com/steinerstt/api-webcasas" target="_blank"> API. </a> E também, caso seja necessário, terá que alterar a baseUrl que está em: services api.ts para a url local do back-end.
 
 <br>
 
